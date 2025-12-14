@@ -21,3 +21,5 @@ To run locally:
 pip install -r requirements.txt
 streamlit run app.py
 
+link: https://outfit-recommender-nw6hcughesrbnkgwriuugn.streamlit.app/
+
