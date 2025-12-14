@@ -1,0 +1,7 @@
+__pycache__/
+.env
+user_feedback.csv
+*.npy
+*.pkl
+.DS_Store
+.ipynb_checkpoints/
